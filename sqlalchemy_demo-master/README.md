@@ -1,5 +1,15 @@
 This demon is originally from this [github](https://github.com/cmmorrow/sqlalchemy_demo). This is a simple demon from the 2017.07.18 Python meetup in Austin.
 
+database > python dbapi > SQLalchemy Core > ORM
+
+
+Great : 
+    enterprise scale apps, flask data model, ETL jobs, Analytics
+Not So Great: 
+    Debugging/Prototyping, Data Lake/NoSQL, Highly complex queries, High Volumne/Speed IO
+
+-
+
 # SQLAlchemy Demo
 This demo serves as an introduction to SQLAlchemy by providing 3 guided exercises.
 
