@@ -3,7 +3,9 @@
 Udacity 032 course
 
 [Udacity 032 page](https://classroom.udacity.com/courses/ud032)
+
 [wiki page](https://www.udacity.com/wiki/ud032)
+
 [GitHub page](https://github.com/udacity/ud032)
 
 

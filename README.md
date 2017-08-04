@@ -1,6 +1,6 @@
 # Demos
-Interesting and useful demos I have tried.
+Interesting and useful demos. About data, sql, database.
 
-sqlalchemy_demo-master [readme](./README.md)
+sqlalchemy_demo-master [readme](./sqlalchemy_demo-master/README.md)
 
-Uda032-Data Wrangling with MongoDB [readme](./readme.MD)
+Uda032-Data Wrangling with MongoDB [readme](./ud032-Data-Wrangling-with-MongoDB/readme.MD)
