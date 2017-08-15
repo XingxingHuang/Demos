@@ -22,3 +22,7 @@ Udacity 032 course
 10. 习题集	（2 hours）
 11. 案例研究：OpenStreetMap 数据 （3 hours）
 	通过一个案例，了解如何审查，清洗和准备OpenStreetMap数据
+	
+	
+Python module :
+> xlrd
