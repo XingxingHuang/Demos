@@ -1,5 +1,5 @@
 # Demos
-Some useful demos let you from 0 to 1. About data, sql, database. Most of them have been modified from the original files. Some personal notes were added.
+Some useful demos let you from 0 to 1. About python, data, sql, database. Most of them have been modified from the original files. Some personal notes were added.
 
 * sqlalchemy_demo-master [readme](./sqlalchemy_demo-master/README.md)
 
@@ -7,4 +7,10 @@ Some useful demos let you from 0 to 1. About data, sql, database. Most of them h
 
 * TCP/IP from shiyanlou [readme](./shiyanlou-tcpip) Let you know TCP/IP Protocol and how it works with our internet (write in Chinese). 
 
-* SQL practice from sqlzoo.net [readme](./sqlzoo/README.md) Let you be comfortable to use SQL, practice onlien from sqlzoo.net.
+* sqlzoo.net [readme](./sqlzoo/README.md) Let you be comfortable to use SQL, practice onlien from sqlzoo.net.
+
+* Web-Develop [readme](./Web-Develop/README.md) know the concept of web develop, from html css javascript to backend techniques.
+
+* github [github.md](./github/github.md) This is a folder to record some basic github commands. Write in Chinese.
+
+* [Python](./Python) Advanced folder for learning different python libraries. 
