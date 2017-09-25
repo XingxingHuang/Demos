@@ -9,6 +9,8 @@ Some useful demos let you from 0 to 1. About python, data, sql, database. Most o
 
 * sqlzoo.net [readme](./sqlzoo/README.md) Let you be comfortable to use SQL, practice onlien from sqlzoo.net.
 
+* Recommend_System [notebook](./Recommend_System/Recommend_System.ipynb) A python notebook that helps to go through basic methods in recommendation systems.
+
 * Web-Develop [readme](./Web-Develop/README.md) know the concept of web develop, from html css javascript to backend techniques.
 
 * github [github.md](./github/github.md) This is a folder to record some basic github commands. Write in Chinese.
